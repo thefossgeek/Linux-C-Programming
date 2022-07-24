@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[])
+int main()
 {
   char ch = 'a';
   printf("%ld%ld\n", sizeof(ch), sizeof('a'));

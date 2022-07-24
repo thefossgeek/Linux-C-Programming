@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[])
+int main()
 {
   printf("%ld\n", sizeof(char));
   return(0);  
