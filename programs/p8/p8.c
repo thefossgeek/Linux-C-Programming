@@ -1,4 +1,4 @@
-/* Program No: 02 */
+/* Program No: 08 */
 /* Date: 25.07.2022 */
 /* Aim: Write a C program to calculate area of the circle */
 
@@ -7,7 +7,7 @@
 int main()
 {
   float r,area;
-  r = 10.2;
+  scanf("%f", &r);
   area = 3.314 * r * r;
   printf("%f\n", area);
   return (0);
